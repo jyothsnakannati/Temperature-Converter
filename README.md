@@ -14,6 +14,12 @@
 ![t3](https://github.com/jyothsnakannati/Temperature-Converter/assets/121303710/b2a7e948-789e-4670-a0be-c61d45c760f5)
 
 
+# FAHRENHEIT TO KELVIN
+
+![t6](https://github.com/jyothsnakannati/Temperature-Converter/assets/121303710/3fd8a0c5-7bf2-4f25-a6ea-85ff95e88bb0)
+
+
+
 # KELVIN TO FAHRENHEIT
 
 ![t4](https://github.com/jyothsnakannati/Temperature-Converter/assets/121303710/43a2f9d3-10f2-4f5f-acae-a3026dc515e0)
