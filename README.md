@@ -14,7 +14,7 @@
 ![t5](https://github.com/jyothsnakannati/Temperature-Converter/assets/121303710/be7862c5-c559-4ed2-ab84-e02dae6c17f9)
 
 
-![t5](https://github.com/jyothsnakannati/Temperature-Converter/assets/121303710/b2b86fee-a457-48f9-a986-587fd5c6e115)
+
 
 
 
